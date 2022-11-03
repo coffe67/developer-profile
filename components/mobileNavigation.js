@@ -88,7 +88,7 @@ export default function MobileNavigation(){
                         style={{ transitionDelay: '200ms' }}
                       >
                         <Link href="/pocs" className="flex w-auto pb-4 pt-4">
-                          PoC's
+                          PoC&apos;s
                         </Link>
                       </li>
                     </ul>
