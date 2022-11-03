@@ -41,7 +41,7 @@ export default function Navigation(){
                 </div>
                 <div className="mx-2">
                     <button onClick={() => router.push('/pocs')}>
-                        PoC's
+                        PoC&apos;s
                     </button>
                 </div>
             </div>
