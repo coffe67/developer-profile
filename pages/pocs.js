@@ -1,6 +1,6 @@
 
 export default function Pocs(){
     return <>
-            <h1>PoC's Page</h1>
+            <h1>PoC&apos;s Page</h1>
     </>
 }
