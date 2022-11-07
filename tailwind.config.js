@@ -6,6 +6,10 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      "montserrat" : ['Montserrat', 'sans-serif'],
+      "sofia" : ['"Sofia Sans"', 'serif']
+    },
     extend: {
       boxShadow: {
         'gold': '0 0px 20px 0px #C9A750',
@@ -27,11 +31,12 @@ module.exports = {
         "danger": 'rgb(255, 0, 0, .7)',
         "debug": 'rgba(200,114,9,0.8)',
         "nav": 'rgba(8,75,131, 1)',
-        "cultured": 'rgba(240,246,246, 1)',
+        "cultured": 'rgba(255,255,255, 1)',
         "grayCustom": 'rgba(61,62,73, .2)'
       },
       backgroundImage: {
         'spaceStars': "url('../public/static/space_start.jpg')",
+        'coffe67BG': "url('../public/static/coffe67BG.jpg')",
       },
     },
   },
