@@ -1,7 +1,7 @@
 import { Suspense } from 'react';
 import MainContainer from '../components/mainContainer';
 import iconOutDev from '../public/static/experience/iconOutDev.svg';
-import logoOutDev from '../public/static/experience/logoOutDev.svg';
+import logoOutDev from '../public/static/experience/LogoOutDev.svg';
 import logoCtrlSun from '../public/static/experience/logoCtrlSun.svg';
 import logoHydralab from '../public/static/experience/logoHydralab.svg';
 import Image from "next/image";
